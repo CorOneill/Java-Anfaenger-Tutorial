@@ -10,6 +10,11 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+#netbeans
+nbproject/
+build/
+build.xml
+
 # Package Files #
 *.jar
 *.war
