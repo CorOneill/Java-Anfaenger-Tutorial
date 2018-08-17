@@ -1,7 +1,7 @@
 package javatutorial.kapitel5.listing19;
 
 public class ArithmetischeAusdruecke3 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int summand1 = 5, summand2 = 5;
         int minuend = 5, subtrahend = 5;
         int faktor1 = 5, faktor2 = 5;

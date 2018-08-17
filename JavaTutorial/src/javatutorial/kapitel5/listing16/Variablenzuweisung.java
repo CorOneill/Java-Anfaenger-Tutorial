@@ -1,4 +1,4 @@
-package javatutorial.kapitel5.listing15;
+package javatutorial.kapitel5.listing16;
 
 public class Variablenzuweisung {
     public static void main(String[] args) {

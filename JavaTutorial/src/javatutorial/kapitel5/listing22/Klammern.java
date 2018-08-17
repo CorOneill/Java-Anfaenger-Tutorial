@@ -9,7 +9,7 @@ public class Klammern {
         //Ausgabe: "Without Brackets: 35"
         System.out.println("Without Brackets: " + withoutBrackets);
         
-//Auswertungsreihenfolge: (5 + 6) * 5 = 11 * 5 = 55
+        //Auswertungsreihenfolge: (5 + 6) * 5 = 11 * 5 = 55
         //Ausgabe: "With Brackets: 55"
         System.out.println("With Brackets: " + withBrackets);
     }   

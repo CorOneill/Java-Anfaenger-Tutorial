@@ -11,4 +11,4 @@ public class SpezielleZeichenliterale {
         //Text Text Text        
         System.out.println("Hello \r World"); //Ausgabe: World
     }
-}
+} 
