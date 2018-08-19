@@ -1,4 +1,4 @@
-package exercise4.solution1;
+package exercise4.exercise1;
 
 public class Steckbrief {
     public static void main(String[] args) {
@@ -12,9 +12,8 @@ public class Steckbrief {
         * gewicht zu float Variablen umgeändert werden. Was ist dabei zu beachten?
         */
         
-        long id = 2147483648L;
         short alter = 80;
-        float groesse = 1.8f, gewicht = 72.6f;
+        double groesse = 1.8, gewicht = 72.6;
         int gehalt = 5000;
         boolean arbeitslos = false;
         boolean tierliebhaber = true;
@@ -23,7 +22,6 @@ public class Steckbrief {
         
         /*TODO 3 : Gib die Werte der Variablen anschließend auf der Konsole aus.
         */
-        System.out.println("ID: " + id);
         System.out.println("Alter: " + alter);
         System.out.println("Größe: " + groesse);
         System.out.println("Gewicht: " + gewicht);
