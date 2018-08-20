@@ -6,14 +6,14 @@ public class Noten {
         /*TODO 1 : Berechne die Summe der Noten und speichere diese
         * in der Variable summeNoten. Wähle dafür den Datentypen float.
         */
-        float summeNote = note1 + note2 + note3 + note4 + note5;
+        float summeNoten = note1 + note2 + note3 + note4 + note5;
         
         /*TODO 2 : Berechne den Durchschnitt der Noten. Wähle dafür den 
         * Datentypen float. Gib den Durchschnitt anschließend auf der 
         * Konsole aus.
         * Durchschnitt = (note1 + ... + note5)/(Anzahl der Noten)
         */
-        float durchschnittNoten = summeNote/5;
+        float durchschnittNoten = summeNoten/5;
         System.out.println("Durschnitt: " + durchschnittNoten);
         
         /*TODO 3 : Weise den Variablen note1 bis note5 beliebige
